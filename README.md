@@ -1,1 +1,1 @@
-This is our camp
+This is our camp project
